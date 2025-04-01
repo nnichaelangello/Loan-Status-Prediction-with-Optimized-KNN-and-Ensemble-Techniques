@@ -387,7 +387,6 @@ This project aims to predict loan status (`loan_status`: 0 for non-default, 1 fo
 2. **Distance Metrics**: Experiment with cosine similarity for mixed data types.
 3. **Advanced Tuning**: Use Bayesian Optimization for efficient hyperparameter search.
 4. **Benchmarking**: Compare with Random Forest or XGBoost for broader insights.
-5. **Deployment**: Implement a Flask or FastAPI API for real-time predictions.
 
 ## Free to clone
 1. Clone the repository:
